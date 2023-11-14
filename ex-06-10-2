@@ -1,1 +1,1 @@
-function imgchange3() {document.getElementById('logo').src=
+function imgchange3() {document.getElementById('logo').src = './image/josailogo2.jpg';}
