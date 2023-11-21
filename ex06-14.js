@@ -1,1 +1,1 @@
-function gazochange() {document.getElementById('denkyuu').src = '.image/denkyuuu_on.jpg;}
+function change() {document.getElementById('denkyuu').src = '.image/denkyuuu_on.jpg;}
