@@ -1,1 +1,1 @@
-function imgchange5() {document.getElementById('logo').src = './image/josailogo2.jpg';}
+function imgchange5() {document.getElementById('denkyuu').src = './image/denkyuu_on.jpg;}
