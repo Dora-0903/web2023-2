@@ -1,6 +1,6 @@
 function BMI2() {var height1 = Number(document.getElementById('height1').value) / 100; //ここで身長をメートルに変換している。
-                var weight1 = Number(document.getElementById('body weight1').value);
-                 var bmi1 = weight1 / (height1 * height1); //ここでBMI値の計算
+                var bodyweight1 = Number(document.getElementById('body weight1').value);
+                 var bmi1 = body weight1 / (height1 * height1); //ここでBMI値の計算
 
                  var bmialert; //ここで空の変数を用意しておく。なぜなら、まとめて表示する際に必要だから。
                  
