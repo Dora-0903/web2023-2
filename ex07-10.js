@@ -11,5 +11,5 @@ function BMI2() {var height1 = Number(document.getElementById('height1').value) 
                  {bmialert = '肥満';}
 
                  alert('あなたのBMI値は' + bmi1 + 'です。');
-                 alert('あなたの肥満度は' + bmialert + 'です。');
+                 alert('あなたの肥満度は' + bmialert + 'になります。');
                 }
