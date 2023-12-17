@@ -1,4 +1,4 @@
-function determineLeapYear() {var year = Number(document.getElementById('year').value);
+function leapyearjudge() {var year = Number(document.getElementById('year').value);
 //西暦を変数「year」に代入　↑
 
                      var yearjudge; //変数を設定
