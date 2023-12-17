@@ -10,6 +10,6 @@ function leapyearjudge() {var year = Number(document.getElementById('year').valu
                        //https://memopad.bitter.jp/w3c/js/js_arithmetic.html　算術演算一覧サイト
                         {yearjudge = '閏年';}
                      else {yearjudge = '平年';}
-
+                          
                      alert('西暦' + year + '年は' + yearjudge + 'です。')
                     }
